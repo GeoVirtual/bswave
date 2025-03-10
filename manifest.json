@@ -1,9 +1,9 @@
 {
- "theme_color": "#FFFFFF",
- "start_url": "index.htm",
- "display": "fullscreen",
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
+ "theme_color": "#FFFFFF",
  "name": "BS WAVE",
+ "start_url": "index.htm",
  "icons": [
   {
    "src": "misc/icon150.png",
